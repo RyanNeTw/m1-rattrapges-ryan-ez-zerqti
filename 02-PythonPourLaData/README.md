@@ -17,3 +17,5 @@ Télécherager une version python 3.10.x puis selectionner la version 3.10.x de 
 ```bash
 pip3.10 install -r requirements.txt
 ```
+
+Vous pouvez maintenant éxecuter les différents blocks dans le fichier script.ipynb
